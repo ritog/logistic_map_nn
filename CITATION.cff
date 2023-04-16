@@ -4,7 +4,7 @@ authors:
 - family-names: "Ghosh"
   given-names: "Ritobrata"
   orcid: "https://orcid.org/0000-0002-0255-9604"
-title: "Logistics with Deep Neural Networks"
+title: "Learning Logistic Map with Deep Neural Networks"
 version: 0.0.1
 # doi: 
 date-released: 2023-04-16
