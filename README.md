@@ -1,8 +1,10 @@
-# Code for "Non-Linear Dynamics Through Linear Algebraic Lenses: Attempting to Learn the Trajectories of the Logistic Map with Artificial Neural Networks"
+# Learning Logistic Map with Deep Neural Networks
+
+## Code for "Non-Linear Dynamics Through Linear Algebraic Lenses: Attempting to Learn the Trajectories of the Logistic Map with Artificial Neural Networks"
 
 by Ritobrata Ghosh (April, 2023)
 
-_(Code for the Master's Thesis of Ritobrata Ghosh)
+_(Code for the Master's Thesis of Ritobrata Ghosh)_
 
 ___
 
@@ -26,3 +28,4 @@ Built with:
 - Python
 - PyTorch
 - Jupyter Lab Desktop
+- Linux
