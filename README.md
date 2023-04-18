@@ -6,6 +6,8 @@ by Ritobrata Ghosh (April, 2023)
 
 _(Code for the Master's Thesis of Ritobrata Ghosh)_
 
+**DOI: doi: 10.5281/zenodo.7840239**
+
 ___
 
 ## To Run

@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-0255-9604"
 title: "Learning Logistic Map with Deep Neural Networks"
 version: 0.0.1
-# doi: 
+doi: 10.5281/zenodo.7840239
 date-released: 2023-04-16
 url: "https://github.com/ghosh-r/logistic_map_nn"
